@@ -23,4 +23,4 @@ var reverseVowels = function(s) {
     var s1 = arr.join('');
     return s1;
 };
-alert(reverseVowels('hello'));
+//alert(reverseVowels('hello'));
