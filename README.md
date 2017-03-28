@@ -1,4 +1,0 @@
-#Leetcode
----
-
-Hello world!
