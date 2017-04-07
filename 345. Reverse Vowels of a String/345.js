@@ -11,8 +11,7 @@ var reverseVowels = function(s) {
             temp = arr[low];
             arr[low] = arr[high];
             arr[high] = temp;
-            low++;
-            high--;
+            low++;high--;
         }
         if(vowel.indexOf(arr[low]) === -1) {
             low++;
